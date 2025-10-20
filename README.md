@@ -1,116 +1,96 @@
+<!-- PROFILE README FOR: github.com/1Nonso -->
+
 <h1 align="center">
-  <a href="https://chukwuani-chinonso-othniel-portfolio.vercel.app">
-    Othniel's Domain;
-  </a>
-  <img width="80" src="./assets/hi-anime.gif" alt="wave gif" />
+  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Othniel (aka 1Nonso)
 </h1>
 
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/1Nonso/1Nonso/main/github-contribution-grid-snake.svg" alt="snake animation" style="border-radius: 0.5rem;"/>
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=1Nonso&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="49%" />
-    <img src="https://streak-stats.demolab.com?user=1Nonso&theme=transparent" width="49%" />
-  </p>
-</div>
-
----
-
-<table>
-  <tr>
-    <td width="60%">
-      <div>
-        <img width="70" src="./assets/hi-anime.gif" alt="hi gif"/>
-      </div>
-
-      Hey 👋, I'm <b>Othniel</b> — a Frontend Developer with a passion for building clean, interactive, and high-performing web apps.<br/>
-      I craft experiences with <b>React</b>, <b>Next.js</b>, and <b>TailwindCSS</b>, mixing creativity and structure like a mad scientist with good UI taste.<br/><br/>
-
-      I love turning ideas into interfaces that just *feel right*. And I believe every pixel and line of code deserves intention.<br/><br/>
-
-      💻🎨 <b>Code till it becomes art.</b> ✨
-      <br/><br/>
-
-      <div>
-        <img width="70" src="./assets/coding-boy.gif" alt="coding gif"/>
-        <h3>Outside the Code;</h3>
-        <ul>
-          <li>🎮 Gaming when I’m not debugging</li>
-          <li>📚 Reading tech blogs or manga</li>
-          <li>🎧 Vibing to Lo-Fi while coding</li>
-          <li>☕ Late-night tea & refactors</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,vercel" />
-</div>
-
----
-
-## ⚙️ GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nonso&hide_progress=true&theme=transparent" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=1Nonso&theme=discord&margin-w=15" width="48%" />
+  <b>Frontend Engineer • React/Next.js • TailwindCSS Enthusiast</b><br/>
+  <i>I craft smooth, beautiful, and blazing-fast web experiences that feel alive ⚡</i>
 </p>
 
 ---
 
-## 🧩 Favourite Tools & Frameworks
+### 🪄 Typing Vibes
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Frontend+Engineer+✨;React+%2B+Next.js+Developer+🚀;Building+Experiences+That+Inspire+🎨"
+    alt="Typing SVG"
+  />
+</p>
+---
 
-- Next.js  
-- React  
-- TailwindCSS  
-- Vercel  
-- Git  
-- MongoDB  
-- Figma  
+### 🚀 About Me
+
+- 🧠 Frontend Web Developer with a passion for **UI perfection** and **clean architecture**
+- 💻 Building responsive apps with **React**, **Next.js**, **TailwindCSS**, and **TypeScript**
+- 🧩 Obsessed with **performance**, **accessibility**, and **user experience**
+- 🌍 Remote dev crafting digital experiences that hit hard and look better
+- 🎯 Always chasing the next level of design + development synergy
 
 ---
 
-## 🌍 Connect With Me
+### 🛠️ Tech Arsenal
 
 <p align="center">
-  <a href="mailto:chukwuaniothniel967@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/1Nonso"><img src="https://img.shields.io/badge/-@1Nonso-black?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chinonso-chukwuani"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://chukwuani-chinonso-othniel-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,vercel&theme=light" />
 </p>
 
 ---
 
-## 🎯 Projects Showcase
+### ⚡ Featured Projects
 
-| Frontend Projects | Web Apps | Experimental |
-| ------------------ | -------- | ------------- |
-| [PixelSmints NFT Platform](https://pixel-smints-demo.vercel.app) | [Portfolio Website](https://chukwuani-chinonso-othniel-portfolio.vercel.app) | Secret Sandbox |
-| ![PixelSmints](https://via.placeholder.com/150) | ![Portfolio](https://via.placeholder.com/150) | ![Sandbox](https://via.placeholder.com/150) |
+#### 🪙 [PixelSmints NFT Platform](https://pixel-smints-demo.vercel.app)
+NFT creation and marketplace platform for artists and collectors.  
+**Stack:** Next.js, TailwindCSS, UploadThing, MongoDB, Prisma, NextAuth, Vercel  
+> Built dynamic pages for NFT creation, buying, and moderation  
+> Integrated authentication + role-based access  
+> Enabled image uploads with live previews  
+> Designed responsive UI with TailwindCSS  
+
+#### 🖥️ [Portfolio Website](https://chukwuani-chinonso-othniel-portfolio.vercel.app)
+Personal website showcasing my work and creative experiments.  
+**Stack:** React + TailwindCSS  
+> Minimal, fast, and personal — exactly my style ⚡
 
 ---
 
-## 🧾 TODOs
-- [x] Build a personal portfolio  
-- [x] Lead frontend on an NFT marketplace  
-- [ ] Launch my own UI component library  
-- [ ] Contribute to open source  
-- [ ] Learn Rust (just because)  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1Nonso&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nonso&layout=compact&theme=radical" height="180em" />
+</p>
+
+---
+
+### 🧩 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Nonso&theme=github-dark&bg_color=0D1117&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinonso-chukwuani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/1Nonso"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://chukwuani-chinonso-othniel-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:chukwuaniothniel967@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/1Nonso/1Nonso/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Nonso&color=brightgreen" alt="Profile Views" />
+  💻🎨 <b>Code till it becomes art.</b> ✨
 </p>
 
-<p align="center">
-  Made with ❤️ by <b>Othniel</b> — fueled by clean code & caffeine ☕
-</p>
+---
