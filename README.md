@@ -1,95 +1,99 @@
-<h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Othniel (aka 1Nonso)
+<h1>
+<a href="https://rafe-esin.com">
+ Esin Shadrach's profile;
+</a><img width="80" src="./assets/anime-hi.gif" />
 </h1>
+<div>
+  <p align="center">
+
+  <img align="center" src="https://rafe-esin.vercel.app/opengraph-image?4c74f908ef0f7a35" alt="pixel banner" style="border-radius: 0.5rem;"/>
+  </p>
 
 <p align="center">
-  <b>Frontend Engineer • React/Next.js • TailwindCSS Enthusiast</b><br/>
-  <i>I craft smooth, beautiful, and blazing-fast web experiences that feel alive ⚡</i>
-</p>
+    <img align="center" src="./github-snake-dark.svg" />
+  </p>
 
----
+<br />
+<br />
+  <table>
+    <tr>
+      <td>
+      <div valign="top">
+<div>
+          <img width="80" src="./assets/anime-hi.gif" />
+        </div>
+Hi, I'm Rafe, a developer, with 5 years of experience. Currently, I'm working on Apps and CLI tools (sometimes), but I'm always open to new ideas. I'm a big fan of Unix, TypeScript, as well as Rust, Dart, Python, and Go.
+<br />
+        <br />
+I Enjoy programming language and framework design, and I have plans to create my own programming language, and GUI framework (in rust) Someday.
+ <br />
+ <div>
+ <br />
+ <div>
+<img width="80" src="./assets/anime-boy.gif" />
 
-### 🪄 Typing Vibes
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Frontend+Engineer+✨;React+%2B+Next.js+Developer+🚀;Building+Experiences+That+Inspire+🎨"
-    alt="Typing SVG"
-  />
-</p>
+<H2>Myself;</H2>
+</div>
+<h4>I enjoy </h4>
+<ul>
+    <li>Reading;</li>
+    <li>Cycling;</li>
+    <li>Playing Chess;</li>
+    <li>Enjoying a Cup of Tea;</li>
+    <li>Reading Comics/Manga;</li>
+    <li>Debates;</li>
+</ul>
+</div>
+      </td>
+    </tr>
+  </table>
 
----
+</div>
 
-### 🚀 About Me
-
-- 🧠 Frontend Web Developer with a passion for **UI perfection** and **clean architecture**
-- 💻 Building responsive apps with **React**, **Next.js**, **TailwindCSS**, and **TypeScript**
-- 🧩 Obsessed with **performance**, **accessibility**, and **user experience**
-- 🌍 Remote dev crafting digital experiences that hit hard and look better
-- 🎯 Always chasing the next level of design + development synergy
-
----
-
-### 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,vercel&theme=light" />
-</p>
-
----
-
-### ⚡ Featured Projects
-
-#### 🪙 [PixelSmints NFT Platform](https://pixel-smints-demo.vercel.app)
-NFT creation and marketplace platform for artists and collectors.  
-**Stack:** Next.js, TailwindCSS, UploadThing, MongoDB, Prisma, NextAuth, Vercel  
-> Built dynamic pages for NFT creation, buying, and moderation  
-> Integrated authentication + role-based access  
-> Enabled image uploads with live previews  
-> Designed responsive UI with TailwindCSS  
-
-#### 🖥️ [Portfolio Website](https://chukwuani-chinonso-othniel-portfolio.vercel.app)
-Personal website showcasing my work and creative experiments.  
-**Stack:** React + TailwindCSS  
-> Minimal, fast, and personal — exactly my style ⚡
-
----
-
-### 📊 GitHub Stats
+## Some Github Stats;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Nonso&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nonso&layout=compact&theme=radical" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EsinShadrach&show_icons=true&theme=transparent&count_private=true&hide=issues,prs" width="100%" />
 </p>
-
----
-
-### 🧩 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Nonso&theme=github-dark&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=EsinShadrach&theme=transparent" width="100%" />
 </p>
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinonso-chukwuani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/1Nonso"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://chukwuani-chinonso-othniel-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:chukwuaniothniel967@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<br />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsinShadrach&hide_progress=true&theme=transparent" width="100%"/>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsinShadrach&theme=discord" alt="Esin Shadrach" /></a> </p>
 
----
+## Favourite =: (Frameworks) | (Libraries) | (tools);
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/1Nonso/1Nonso/blob/output/github-contribution-grid-snake.svg" />
-</p>
+- Vim
+- NextJs
+- Flutter
+- React
+- Drizzle
+- Firebase
 
----
+<br />
 
-<p align="center">
-  💻🎨 <b>Code till it becomes art.</b> ✨
-</p>
+<img src="https://komarev.com/ghpvc/?username=EsinShadrach&color=brightgreen" />
+<a href="mailto:esinshadrachrafe@gmail.com"><img src="https://img.shields.io/badge/-Rafe✨-4287f5?style=flat&logo=Gmail&logoColor=white" alt="Mail" />
+</a>
+  <a href="https://twitter.com/rafeesin"><img src="https://img.shields.io/badge/-rafe_esin-black?style=flat&logo=Twitter&logoColor=white"  alt="Twitter"/>
+  
+  </a>
 
----
+## Projects
+
+| App Development                                   | Web Development                                   | CLI tools                                         |
+| ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| ![Placeholder 1](https://via.placeholder.com/150) | ![Placeholder 2](https://via.placeholder.com/150) | ![Placeholder 3](https://via.placeholder.com/150) |
+| Cool project                                      | Cute Project                                      | Mysterious Project                                |
+
+## TODO
+
+- [ ] Add Images to Project Section Above...
+- [ ] Create a programming language
+- [ ] Create a GUI framework
+- [x] Create a CLI tool
+- [ ] Create a Web framework
+- [ ] Create a App framework
