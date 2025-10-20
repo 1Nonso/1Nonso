@@ -11,8 +11,6 @@
   <i>I craft smooth, beautiful, and blazing-fast web experiences that feel alive ⚡</i>
 </p>
 
----
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Frontend+Engineer+✨;React+%2B+Next.js+Developer+🚀;Building+Experiences+That+Inspire+🎨"
