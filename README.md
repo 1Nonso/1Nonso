@@ -4,7 +4,7 @@
   Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Othniel (aka 1Nonso)
 </h1>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/1Nonso/1Nonso/blob/output/github-snake-dark.svg)
 
 <p align="center">
   <b>Frontend Engineer • React/Next.js • TailwindCSS Enthusiast</b><br/>
