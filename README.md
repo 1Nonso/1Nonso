@@ -1,10 +1,10 @@
-<!-- PROFILE README FOR: github.com/1Nonso -->
-
 <h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Othniel (aka 1Nonso)
+  Hiii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Othniel
 </h1>
 
-![snake gif](https://github.com/1Nonso/1Nonso/blob/output/github-snake-dark.svg)
+<div align="center">
+  ![snake gif](https://github.com/1Nonso/1Nonso/blob/output/github-snake-dark.svg)
+</div>
 
 <p align="center">
   <b>Frontend Engineer • React/Next.js • TailwindCSS Enthusiast</b><br/>
@@ -13,7 +13,6 @@
 
 ---
 
-### 🪄 Typing Vibes
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Frontend+Engineer+✨;React+%2B+Next.js+Developer+🚀;Building+Experiences+That+Inspire+🎨"
@@ -84,15 +83,6 @@ Personal website showcasing my work and creative experiments.
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/1Nonso/1Nonso/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
   💻🎨 <b>Code till it becomes art.</b> ✨
 </p>
-
----
