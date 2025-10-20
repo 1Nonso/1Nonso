@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  ![snake gif](https://github.com/1Nonso/1Nonso/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/1Nonso/1Nonso/blob/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 <p align="center">
