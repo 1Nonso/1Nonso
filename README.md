@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github.com/1Nonso/1Nonso/blob/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
   <h1>Hey, I'm Othniel 👋</h1>
   <p><b>Full-Stack & Mobile Developer &nbsp;·&nbsp; React / Next.js / Node.js / React Native</b></p>
   <p><i>I build things end-to-end — from database to pixel — and I care deeply about both.</i></p>
